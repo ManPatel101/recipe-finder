@@ -3,7 +3,7 @@
 A modern and responsive web application that allows users to search for recipes, filter meals, and view detailed cooking instructions. This project uses the free public API from TheMealDB to fetch real-time recipe data and display it in a clean, user-friendly interface.
 
 🔗 Live Demo:
-https://manpatel101.github.io/Recipe_Finder/
+https://manpatel101.github.io/recipe-finder/
 
 🚀 Features
 
